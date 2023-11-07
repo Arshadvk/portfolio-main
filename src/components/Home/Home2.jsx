@@ -29,7 +29,7 @@ function Home2() {
               I debug more than I code.
               <br />
               <br />
-              <a href="">Resume</a>
+              <a href="https://drive.google.com/file/d/1oI6_XU_ff4FaifAxEY-y15fcS6kvaHSU/view?usp=sharing">Resume</a>
 
             </p>
           </Col>
